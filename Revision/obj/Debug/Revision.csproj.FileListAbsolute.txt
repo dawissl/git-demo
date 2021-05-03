@@ -1,0 +1,7 @@
+C:\Users\dawis\source\repos\Revision\bin\Debug\Revision.exe.config
+C:\Users\dawis\source\repos\Revision\bin\Debug\Revision.exe
+C:\Users\dawis\source\repos\Revision\bin\Debug\Revision.pdb
+C:\Users\dawis\source\repos\Revision\obj\Debug\Revision.csprojAssemblyReference.cache
+C:\Users\dawis\source\repos\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+C:\Users\dawis\source\repos\Revision\obj\Debug\Revision.exe
+C:\Users\dawis\source\repos\Revision\obj\Debug\Revision.pdb

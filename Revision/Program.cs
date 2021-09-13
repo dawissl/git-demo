@@ -10,7 +10,7 @@ namespace Revision
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Code change");
         }
 
         class Clovek

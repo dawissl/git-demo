@@ -11,7 +11,7 @@ namespace Revision
         static void Main(string[] args)
         {
             Console.WriteLine("Code change");
-            Console.WriteLine("New feature");
+            Console.WriteLine("New feature update");
         }
 
         class Clovek
